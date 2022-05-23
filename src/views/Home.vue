@@ -1,6 +1,7 @@
 <template>
   <div id="home">
     <youtube />
+    <!--
     <articles>
       <banner />
     </articles>
@@ -10,6 +11,7 @@
     <subscribe />
 
     <social />
+    -->
   </div>
 </template>
 
